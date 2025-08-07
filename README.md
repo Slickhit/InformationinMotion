@@ -13,6 +13,11 @@ This repository contains a simple static website for the "Information in Motion"
 
 To view the website locally, open `InfoM.website.html` or `index.html` in your web browser. No additional setup is required.
 
+## Live Site
+
+This repository includes a GitHub Actions workflow that deploys the site to GitHub Pages.
+After pushing to `main` and enabling Pages in repository settings, the site will be accessible at `https://your-username.github.io/InformationinMotion/`.
+
 ## Development Instructions
 
 1. Clone this repository.
